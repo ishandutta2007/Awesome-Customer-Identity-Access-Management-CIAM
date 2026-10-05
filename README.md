@@ -57,9 +57,9 @@ Below is a side-by-side comparison of leading hosted and cloud CIAM products, so
 
 The open-source CIAM ecosystem is mature, battle-tested, and production-ready. Self-hosting provides full data sovereignty, zero per-user licensing fees, and complete control over customer authentication data.
 
-Below are top open-source identity projects, sorted by **GitHub Star Count** (descending):
+Below are top open-source identity projects, sorted by **GitHub Stars_Count** (descending):
 
-| Repository | Description | Stars |
+| Repository | Description | GitHub_Stars |
 | :--- | :--- | :--- |
 | **[Keycloak](https://github.com/keycloak/keycloak)** | **The de-facto open-source IAM enterprise standard.** Maintained by Red Hat. Apache 2.0 licensed with comprehensive OIDC, OAuth 2.0, and SAML 2.0 protocol support. | [<img src="https://img.shields.io/github/stars/keycloak/keycloak?style=social&color=white" alt="Keycloak Stars"/>](https://github.com/keycloak/keycloak/stargazers) |
 | **[Authelia](https://github.com/authelia/authelia)** | **Lightweight authentication & 2FA portal** for reverse proxies (Nginx, Traefik, Caddy). Apache 2.0 licensed, ideal for securing self-hosted applications and internal infrastructure. | [<img src="https://img.shields.io/github/stars/authelia/authelia?style=social&color=white" alt="Authelia Stars"/>](https://github.com/authelia/authelia/stargazers) |
